@@ -1923,6 +1923,7 @@ input, select, textarea {
 
 		table td {
 			padding: 0.5em 1em 0.5em 1em;
+            white-space: nowrap;
 		}
 
 		table th {
